@@ -1,11 +1,12 @@
 ### Launched
-
-### Confirmed
 -A New Hope I
 
 -The Empire Strikes Back I
 
--Alternative Music (4 different instrument)
+-Alternative Music
 
-### Obsolete
+### Confirmed
+-Alternative Music (3 instruments remaining)
+
+### Uncofirmed, but possible
 
