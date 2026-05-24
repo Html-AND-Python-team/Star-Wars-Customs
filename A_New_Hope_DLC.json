@@ -1,0 +1,23 @@
+{
+    "name": "A New Hope DLC",
+
+    "ships": {
+        "empire": [
+
+            {
+                "name": "Imperial III-class Star Destroyer",
+                "money": 75,
+                "spawn_chance": 1
+            }
+        ]
+    },
+    "events": [
+        {
+            "name": "Destruction of Alderaan",
+            "effect": "A_new_hope_DLC_e1",
+            "year": -1,
+            "period": 3
+        }
+    ]
+
+}
