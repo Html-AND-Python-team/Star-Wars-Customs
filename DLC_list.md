@@ -5,8 +5,14 @@
 
 -Alternative Music
 
+-Alternative Music (violin edition)
+
+-Return of the jedi I
+
+-Original trilogy pack (A new hope I, Empire strikes back I, Return of the jedi I)
+
 ### Confirmed
--Alternative Music (3 instruments remaining)
+-Alternative Music (2 instruments remaining)
 
 -Rogue One I
 
@@ -16,7 +22,7 @@
 
 -Solo, a starwars story II
 
--Return of the jedi I
+-Starwars Clone Wars events DLC (+3 new events)
 
--Original trilogy pack (A new hope I, Empire strikes back I, Return of the jedi I)
+
 
