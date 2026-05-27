@@ -1,0 +1,45 @@
+{
+    "name": "Original trilogy DLC",
+
+    "ships": {
+        "empire": [
+
+            {
+                "name": "Jabba's Sail Barge",
+                "money": 120,
+                "spawn_chance": 0.9
+            },
+            {
+                "name": "Imperial III-class Star Destroyer",
+                "money": 75,
+                "spawn_chance": 1
+            },
+            {
+                "name": "Attack cruiser MC80A (Home One)",
+                "money": 209,
+                "spawn_chance": 0.8
+            }
+        ]
+    },
+    "events": [
+        {
+            "name": "Destruction of Death Star II",
+            "effect": "The_Return_Of_The_Jedi_DLC_e1",
+            "year": 4,
+            "period": 2
+        },
+        {
+            "name": "Battle of hoth",
+            "effect": "Empire_Strikes_Back_DLC_e1",
+            "year": 2,
+            "period": 3
+        },
+        {
+            "name": "Destruction of Alderaan",
+            "effect": "A_new_hope_DLC_e1",
+            "year": -1,
+            "period": 3
+        }
+    ]
+
+}
