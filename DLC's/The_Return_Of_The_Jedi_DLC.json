@@ -1,0 +1,23 @@
+{
+    "name": "The Return Of The Jedi DLC",
+
+    "ships": {
+        "empire": [
+
+            {
+                "name": "Attack cruiser MC80A (Home One)",
+                "money": 209,
+                "spawn_chance": 0.8
+            }
+        ]
+    },
+    "events": [
+        {
+            "name": "Destruction of Death Star II",
+            "effect": "The_Return_Of_The_Jedi_DLC_e1",
+            "year": 4,
+            "period": 2
+        }
+    ]
+
+}
